@@ -1,0 +1,4 @@
+OIB: 12345678910
+IME: Katarina
+PREZIME: Merak
+Status: PRIMARY
